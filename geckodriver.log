@@ -1,0 +1,123 @@
+1512994062453	geckodriver	INFO	geckodriver 0.19.1
+1512994062458	geckodriver	INFO	Listening on 127.0.0.1:36453
+1512994063577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SDUKwGHdpRMm"
+1512994064096	Marionette	INFO	Enabled via --marionette
+1512994066268	Marionette	INFO	Listening on port 42051
+1512994066338	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512994066486	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512994115416	geckodriver	INFO	geckodriver 0.19.1
+1512994115419	geckodriver	INFO	Listening on 127.0.0.1:47005
+1512994116559	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.r4y0aXldvgCr"
+1512994117183	Marionette	INFO	Enabled via --marionette
+1512994119718	Marionette	INFO	Listening on port 33011
+1512994119832	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512994119986	Marionette	DEBUG	Register listener.js for window 2147483649
+1512994120034	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512994120597	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512994120597	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512994120635	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://dev.markitondemand.com/MODApis/Api/v2/doc"
+1512994120786	Marionette	DEBUG	Received DOM event "pageshow" for "http://dev.markitondemand.com/MODApis/Api/v2/doc"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512994176972	geckodriver	INFO	geckodriver 0.19.1
+1512994176975	geckodriver	INFO	Listening on 127.0.0.1:34843
+1512994178128	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BPCbGGBaTJGB"
+1512994178708	Marionette	INFO	Enabled via --marionette
+1512994180825	Marionette	INFO	Listening on port 40377
+1512994180873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512994180993	Marionette	DEBUG	Register listener.js for window 2147483649
+1512994181051	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512994182102	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512994182102	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512994182128	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://dev.markitondemand.com/MODApis/Api/v2/doc"
+1512994182264	Marionette	DEBUG	Received DOM event "pageshow" for "http://dev.markitondemand.com/MODApis/Api/v2/doc"
+1512994199300	geckodriver	INFO	geckodriver 0.19.1
+1512994199307	geckodriver	INFO	Listening on 127.0.0.1:40143
+1512994200491	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xuAlkV6VGJ1p"
+1512994201759	Marionette	INFO	Enabled via --marionette
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512994204765	Marionette	INFO	Listening on port 40865
+1512994204870	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512994205007	Marionette	DEBUG	Register listener.js for window 2147483649
+1512994205049	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512994205621	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512994205624	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512994205657	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://dev.markitondemand.com/MODApis/Api/v2/doc"
+1512994205829	Marionette	DEBUG	Received DOM event "pageshow" for "http://dev.markitondemand.com/MODApis/Api/v2/doc"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512994224562	geckodriver	INFO	geckodriver 0.19.1
+1512994224565	geckodriver	INFO	Listening on 127.0.0.1:38513
+1512994225696	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LEuKkODViUSh"
+1512994226303	Marionette	INFO	Enabled via --marionette
+1512994228465	Marionette	INFO	Listening on port 39661
+1512994228537	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512994228718	Marionette	DEBUG	Register listener.js for window 2147483649
+1512994228752	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512994229614	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512994229614	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512994229645	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://dev.markitondemand.com/MODApis/Api/v2/doc"
+1512994229785	Marionette	DEBUG	Received DOM event "pageshow" for "http://dev.markitondemand.com/MODApis/Api/v2/doc"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512994281598	geckodriver	INFO	geckodriver 0.19.1
+1512994281601	geckodriver	INFO	Listening on 127.0.0.1:58321
+1512994282738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lo7EjEk9ySRK"
+1512994283419	Marionette	INFO	Enabled via --marionette
+1512994285776	Marionette	INFO	Listening on port 39191
+1512994285874	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512994286019	Marionette	DEBUG	Register listener.js for window 2147483649
+1512994286068	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512994286629	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512994286629	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512994286800	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://dev.markitondemand.com/MODApis/Api/v2/doc"
+1512994286828	Marionette	DEBUG	Received DOM event "pageshow" for "http://dev.markitondemand.com/MODApis/Api/v2/doc"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512994304742	geckodriver	INFO	geckodriver 0.19.1
+1512994304745	geckodriver	INFO	Listening on 127.0.0.1:58037
+1512994305839	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HU40NUYo5whf"
+1512994306478	Marionette	INFO	Enabled via --marionette
+1512994309256	Marionette	INFO	Listening on port 43761
+1512994309316	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512994309453	Marionette	DEBUG	Register listener.js for window 2147483649
+1512994309520	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512994310106	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512994310109	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512994310137	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://dev.markitondemand.com/MODApis/Api/v2/doc"
+1512994310250	Marionette	DEBUG	Received DOM event "pageshow" for "http://dev.markitondemand.com/MODApis/Api/v2/doc"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512994338915	geckodriver	INFO	geckodriver 0.19.1
+1512994338918	geckodriver	INFO	Listening on 127.0.0.1:33075
+1512994340058	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.MzqD45UCtBJ9"
+1512994340679	Marionette	INFO	Enabled via --marionette
+1512994343306	Marionette	INFO	Listening on port 45183
+1512994343394	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512994343564	Marionette	DEBUG	Register listener.js for window 2147483649
+1512994343634	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512994344512	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512994344513	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512994344545	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://dev.markitondemand.com/MODApis/Api/v2/doc"
+1512994344707	Marionette	DEBUG	Received DOM event "pageshow" for "http://dev.markitondemand.com/MODApis/Api/v2/doc"
+1512995008375	geckodriver	INFO	geckodriver 0.19.1
+1512995008378	geckodriver	INFO	Listening on 127.0.0.1:35517
+1512995009517	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zE0wJ7hhWeSc"
+1512995010144	Marionette	INFO	Enabled via --marionette
+1512995012524	Marionette	INFO	Listening on port 36003
+1512995012546	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512995012656	Marionette	DEBUG	Register listener.js for window 2147483649
+1512995012696	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512995013594	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512995013594	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512995013739	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://dev.markitondemand.com/MODApis/Api/v2/doc"
+1512995013751	Marionette	DEBUG	Received DOM event "pageshow" for "http://dev.markitondemand.com/MODApis/Api/v2/doc"
+1512995106803	geckodriver	INFO	geckodriver 0.19.1
+1512995106806	geckodriver	INFO	Listening on 127.0.0.1:43651
+1512995107947	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tFjvmdVUdygr"
+1512995108508	Marionette	INFO	Enabled via --marionette
+1512995110990	Marionette	INFO	Listening on port 41485
+1512995111110	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512995111298	Marionette	DEBUG	Register listener.js for window 2147483649
+1512995111348	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512995112373	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512995112374	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512995112410	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://dev.markitondemand.com/MODApis/Api/v2/doc"
+1512995112526	Marionette	DEBUG	Received DOM event "pageshow" for "http://dev.markitondemand.com/MODApis/Api/v2/doc"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
